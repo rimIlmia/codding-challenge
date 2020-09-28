@@ -1,2 +1,27 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#btn {
+  background-color: blueviolet;
+  border: 0px;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 1rem;
+}
+#nav {
+  position: fixed;
+  top: 40px;
+  right: 100px;
+  background-color: burlywood;
+  padding: 20px;
+  display: none;
+}
+li {
+  margin: 10px;
+}
+
 
 /*# sourceMappingURL=/style.78032849.css.map */
